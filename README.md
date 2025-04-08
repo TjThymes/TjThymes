@@ -8,4 +8,3 @@
 TjThymes/TjThymes is my personal development page. Did you get lost on your way here?? :3
 --!>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TjThymes&layout=compact)

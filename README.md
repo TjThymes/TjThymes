@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
     <h4>👨‍💻 Thijmen Roozendaal | Technical Informatics Student | App Developer in the making!</h4>
     <p>🚀 Passionate about coding, learning, and climbing challenges – both digital and real-world! 🧗‍♂️</p>
-    <p>On this page you will find my projects, experiments, and open-source adventures. Feel free to explore and connect!</p>
+    <p>On this page you will find my projects, experiments, and open-source adventures. Feel free to explore and dont get LOST!</p>
 </div>
 <div align="center">
 
@@ -12,7 +12,6 @@
 ![SQL Enthusiast](https://img.shields.io/badge/SQL-Enthusiast-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript Developer](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![App Developer](https://img.shields.io/badge/App-Developer-00C853?style=for-the-badge)
-![Problem Solver](https://img.shields.io/badge/Problem-Solver-F44336?style=for-the-badge)
 ![Bouldering Fan](https://img.shields.io/badge/Bouldering-Fan-9C27B0?style=for-the-badge)
 
 </div>
@@ -30,7 +29,6 @@
 ## 🛠 Skills
 - Programming: C#, SQL, JavaScript
 - Problem-solving and debugging (helping friends and family fix anything!)
-- Customer service experience at Coolblue (tech support and advice)
 
 ---
 

@@ -28,7 +28,6 @@
 
 ## 🛠 Skills
 - Programming: C#, SQL, JavaScript
-- Problem-solving and debugging (helping friends and family fix anything!)
 
 ---
 
